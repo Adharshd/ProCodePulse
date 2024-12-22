@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  # Services will be added as we develop them
+  
+networks:
+  procodepulse-network:
+    driver: bridge
